@@ -8665,3 +8665,4 @@ https://github.com/dac1e/AT24CxEeprom
 https://github.com/askinkeles/DWIN_DGUS_HMI
 https://github.com/JorgeGBeltre/MQTTOTA
 https://github.com/elevoi/ESteme
+https://github.com/PaulStoffregen/XPT2046_Touchscreen.git
